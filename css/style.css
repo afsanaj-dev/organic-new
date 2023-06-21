@@ -381,7 +381,6 @@ ul,ol{
     margin: 35px 0 20px 0;
     font-family: "Abril Fatface",serif;
     font-weight: 400;
-    text-transform: initial;
     color: #244262;
     font-size: 24px;
     line-height: 28px;
@@ -393,6 +392,7 @@ ul,ol{
     font-weight: 400;
     color: #848484;
    }
+
    .organic__img{
     width: 565px;
     height: 738px;
@@ -455,6 +455,11 @@ ul,ol{
     text-align: center;
     width: 700px;
     margin: 30px 0 80px 200px;
+   }
+   .discount__item__wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
    }
    .discount__item{
     width: 260px;

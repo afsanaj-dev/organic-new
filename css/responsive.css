@@ -169,7 +169,6 @@ display: none;
   }
 .organic__head__p{
     font-size: 17px;
-    width: 350px;
 }
 .organic__item__head {
     margin: 20px 0 15px 0;
@@ -188,9 +187,10 @@ display: none;
     padding: 80px 0 40px 0;
    }
    .organic__right{
-    display: flex;
-    justify-content: center;
+    margin: auto;
+    width: 334px;
    }
+  */
   /* ===========COuntDown=========== */
 
   #countdown{
