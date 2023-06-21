@@ -56,11 +56,12 @@
     font-size: 45px;
    }
    .banner__head__1p{
+    width: 100%;
     text-align: center;
     font-size: 16px;
    }
    .banner__head__2p{
-    width: 330px;
+    width: 100%;
     font-size: 13px;
    }
    .banner__btn{
@@ -90,7 +91,7 @@
    }
    .homegrown__p{
     font-size: 14px;
-    width: 320px;
+    width: 100%;
     text-align: center;
     margin: 30px 0;
    }
@@ -134,7 +135,7 @@
   .nature__p {
 
     margin: 30px 0;
-    width: 350px;
+    width: 100%;
     font-size: 16px;
   }
   .lemons{
@@ -162,10 +163,13 @@ display: none;
     align-items: center;
     margin: auto;
     padding: 0;
+    width: 100%;
+    text-align: center;
   }
   .organic__head{
     padding: 5px 0;
     font-size: 44px;
+
   }
 .organic__head__p{
     font-size: 17px;
@@ -173,10 +177,12 @@ display: none;
 .organic__item__head {
     margin: 20px 0 15px 0;
     font-size: 22px;
+  
   }
   .organic__item__p{
-    width: 348px;
+    width: 100%;
     font-size: 14px;
+ 
 
    }
    .organic__img {
@@ -208,13 +214,14 @@ display: none;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
    }
    .discount__head{
     font-size: 36px;
    }
    .discount__p{
     font-size: 14px;
-    width: 320px;
+    width: 100%;
     margin: 10px 0 10px 10px;
    }
    .discount__item__img {
@@ -250,7 +257,7 @@ display: none;
    }
    .insta__p{
     font-size: 16px;
-    width: 350px;
+    width: 100%;
     margin: 20px 0 40px 10px;
    }
 .insta__icon i {
@@ -285,8 +292,10 @@ display: none;
       /* ===========FOOTER======== */
       #footer{
         padding: 60px 0;
+        text-align: center;
        }
        .footer__item__head2 {
+        width: 100%;
         margin-top: 20px;
         font-size: 31px;
       }
