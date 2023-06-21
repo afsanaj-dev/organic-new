@@ -131,7 +131,7 @@ ul,ol{
    #banner{
     background: url(../images/banner.png) no-repeat center/cover;
     padding: 50px 0 100px 0;
-    background-color: red;
+    background-color: yellow;
    }
    .banner__left{
     position: relative;
